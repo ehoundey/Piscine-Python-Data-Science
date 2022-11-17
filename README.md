@@ -125,4 +125,5 @@ sh hh.sh "data scientist"
 Резюме: Этот раш поможет вам укрепить навыки, полученные в предыдущие дни.
 Датасет epi_r.csv скачать [здесь](https://drive.google.com/file/d/1hzmxNBrY7-9mv5EpqAvhVUiJahfrcYUN/view)
 
+![photo_5453877351273318042_m](https://user-images.githubusercontent.com/118346014/202443149-f7e3ea41-e08f-4162-9094-99486e86d234.jpg)
 
